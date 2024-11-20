@@ -3,7 +3,7 @@ pkgdown: 2.1.1
 pkgdown_sha: ~
 articles:
   bundle: bundle.html
-last_built: 2024-11-16T23:42Z
+last_built: 2024-11-20T01:50Z
 urls:
   reference: https://rstudio.github.io/bundle/reference
   article: https://rstudio.github.io/bundle/articles
